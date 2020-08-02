@@ -1,0 +1,193 @@
+body{
+    background-color: #12cad6;
+    margin: 0;
+    text-align: center;
+}
+.top-container{
+   max-width: initial;
+   
+    height: 450px;
+    background-color: #00bcd4;
+    position: relative;
+    padding-top: 10px;
+   
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4.375rem;
+    width: 10%;
+    margin: 0 auto 0 auto;
+    color: #eeecda;
+}
+h2{
+    color: #5e6f64;
+    font-style: italic;
+}
+p{
+    font-family: 'Kavivanar', cursive;
+    color: #050505;
+}
+.sun{
+   width: 300px;
+   height: 300px;
+   position: absolute;
+   right: 1300px;
+   bottom: 250px;
+   
+}
+.c1{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    right: 1150px;
+    
+}
+.c2{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    right: 900px;
+}
+.c3{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    right: 600px;
+}
+.c4{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 800px;
+}
+.c5{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 1120px;
+}
+.birds{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 1000px;
+    bottom: 10px;
+}
+.middle-container{
+    padding-top: 200px;
+}
+.kkr{
+    width: 200px;
+    height: 200px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.s1{
+    width: 25%;
+    position: relative;
+    bottom: 20px;
+    float: left;
+    margin-right: 30px;
+}
+.s2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 30px;
+    color:#0fabbc;
+    
+}
+.profile{
+    padding-bottom: 50px;
+}
+.skills{
+    padding-top: 50px;
+}
+.contacts{
+    padding: 50px 0 50px 0;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #52c8ff;
+	background:linear-gradient(to bottom, #05d5ff 5%, #476e9e 100%);
+	background-color:#05d5ff;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:19px;
+	font-weight:bold;
+	font-style:italic;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #26d4ff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #05d5ff 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: #3282b8;
+    height: 150px;
+    
+}
+.insta{
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Kavivanar', cursive;
+}
+.insta:hover{
+    color: ivory;
+}
+.face{
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Kavivanar', cursive;
+}
+.face:hover{
+    color: ivory;
+}
+.twi{
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Kavivanar', cursive;
+}
+.twi:hover{
+    color: ivory;
+}
+.copy{
+    padding-top: 20px;
+    font-size: 10px;
+    color: whitesmoke;
+}
+.footer{
+    padding: 40px 0 5px 0;
+}
+.insta1{
+    width: 30px;
+    height: 30px;
+
+}
+.face1{
+    width: 30px;
+    height: 30px;
+}
+.twi1{
+    width: 30px;
+    height: 30px;
+}
